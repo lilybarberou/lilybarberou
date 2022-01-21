@@ -44,7 +44,7 @@
 ### 🤝🏻&nbsp; Connect with me
 
 <p>
-    <a href="https://www.lilyb.netlify.app">
+    <a href="https://lilyb.netlify.app">
         <img src="https://img.shields.io/badge/lilyb.netlify.app-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/lily-barberou-1b2b65221/"/>
