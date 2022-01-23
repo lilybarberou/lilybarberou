@@ -9,7 +9,7 @@
 🌱&nbsp; I'm on track for learning more about Web Development, and Web Design.\
 💻&nbsp; In my free time, I try to expand my knowledge through the creation of multiple projects.\
 💬&nbsp; Feel free to contact me for consulting, helping, or just for some interesting discussion.\
-✉️&nbsp; You can shoot me an email at lily.barberou@gmail.com ! I'll try to respond as soon as I can.
+✉️&nbsp; You can shoot me an email [here](mailto:lily.barberou@gmail.com) ! I'll try to respond as soon as I can.
 
 ### 🛠 Tech Knowledge
 
