@@ -51,5 +51,5 @@
     <a href="https://www.linkedin.com/in/lily-barberou-1b2b65221/"/>
         <img src="https://img.shields.io/badge/Lily%20BARBEROU-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <img src="https://img.shields.io/badge/Lily%237476-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Lily.%237476-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
