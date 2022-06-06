@@ -48,7 +48,7 @@
     <a href="https://lilyb.netlify.app">
         <img src="https://img.shields.io/badge/lilyb.netlify.app-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/lily-barberou-1b2b65221/"/>
+    <a href="https://www.linkedin.com/in/lilybarberou/"/>
         <img src="https://img.shields.io/badge/Lily%20BARBEROU-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <img src="https://img.shields.io/badge/Lily.%237476-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
