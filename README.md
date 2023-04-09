@@ -1,4 +1,4 @@
-![Lily's Banner](https://raw.githubusercontent.com/Nahay/Nahay/master/assets/LilyBanner.png)&nbsp;
+![Lily's Banner](https://raw.githubusercontent.com/lilybarberou/lilybarberou/master/assets/LilyBanner.png)&nbsp;
 
 # 👋&nbsp; Hello there ! I'm Lily
 
@@ -29,9 +29,9 @@
 ### ⚙️&nbsp; GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/Nahay">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nahay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nahay&layout=compact&langs_count=8&theme=tokyonight"/>
+    <a href="https://github.com/lilybarberou">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lilybarberou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lilybarberou&layout=compact&langs_count=8&theme=tokyonight"/>
     </a>
 </p>
 
