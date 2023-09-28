@@ -1,5 +1,3 @@
-![Lily's Banner](https://raw.githubusercontent.com/lilybarberou/lilybarberou/master/assets/LilyBanner.png)&nbsp;
-
 # 👋&nbsp; Hello there ! I'm Lily
 
 ### 📌&nbsp; About Me
@@ -28,21 +26,19 @@
 
 ### ⚙️&nbsp; GitHub Stats
 
-<p align="center">
-    <a href="https://github.com/lilybarberou">
+<a href="https://github.com/lilybarberou">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lilybarberou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lilybarberou&layout=compact&langs_count=8&theme=tokyonight"/>
     </a>
-</p>
 
 ### 🤝🏻&nbsp; Connect with me
 
 <p>
     <a href="https://lilybarberou.fr">
-        <img src="https://img.shields.io/badge/lilybarberou.fr-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/lilybarberou.fr-893333?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/lilybarberou/"/>
         <img src="https://img.shields.io/badge/Lily%20BARBEROU-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <img src="https://img.shields.io/badge/Lily.%237476-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/lily.js-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
