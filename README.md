@@ -3,7 +3,6 @@
 ### 📌&nbsp; About Me
 
 💡&nbsp; I like to explore new technologies, and learn new things. I also like to develop and design websites.\
-🎓&nbsp; I'm currently studying Web Development / Design at the IUT from Mulhouse, France.\
 💻&nbsp; In my free time, I try to expand my knowledge through the creation of multiple projects.\
 💬&nbsp; Feel free to contact me for consulting, helping, or just for some interesting discussion.\
 ✉️&nbsp; You can shoot me an email [here](mailto:lily.barberou@gmail.com) ! I'll try to respond as soon as I can.
@@ -17,7 +16,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-2d79c7?style=for-the-badge&logo=typescript&logoColor=ffffff)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 #### Design software
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
