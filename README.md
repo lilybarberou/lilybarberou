@@ -9,7 +9,6 @@
 
 ### 🛠 Tech Knowledge
 
-#### Programming languages
 ![React](https://img.shields.io/badge/React-159ac2?style=for-the-badge&logo=react&logoColor=ffffff)&nbsp;
 ![NextJs](https://img.shields.io/badge/NextJs-10a8ad?style=for-the-badge&logo=next.js&logoColor=ffffff)&nbsp;
 ![NodeJs](https://img.shields.io/badge/NodeJs-4F9640?style=for-the-badge&logo=node.js&logoColor=FFFFFF)&nbsp;
